@@ -1,35 +1,30 @@
-{
- "modules": [
+[
  {
-   "Device": 1,
+   "id": 1,
    "Age": 3,
    "Temperature": 87,
    "Health": "Good",
    "Location": "Living "
  },
  {
-   "Device": 2,
+   "id": 2,
    "Age": 4,
    "Temperature": 93,
    "Health": "Good",
    "Location": "Bedroom"
  },
  {
-   "Device": 3,
+   "id": 3,
    "Age": 2,
    "Temperature": 75,
    "Health": "Excellent",
    "Location": "Kitchen"
  },
  {
-   "Device": 4,
+   "id": 4,
    "Age": 5,
    "Temperature": 83,
    "Health": "Tired",
    "Location": "Outdoors"
  }
-],
-  "profile": {
-    "name": "das2002"
-  }
-}
+]
