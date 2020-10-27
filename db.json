@@ -1,5 +1,5 @@
 {
- "modules":[
+ "modules": [
  {
    "Device": 1,
    "Age": 3,
@@ -29,7 +29,7 @@
    "Location": "Outdoors"
  }
 ]
- "profile": {
-     "name": "das2002"
-}
+  "profile": {
+    "name": "typicode"
+  }
 }
